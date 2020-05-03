@@ -1,0 +1,19 @@
+{
+  "name": "chicken-cam-mouse-click-sim",
+  "version": "1.0.0",
+  "description": "simulate a mouse click every few minutes",
+  "main": "index.js",
+  "author": "bronz3beard <info2rory@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": "8.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {}
+}
